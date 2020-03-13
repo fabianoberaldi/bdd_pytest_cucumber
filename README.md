@@ -1,2 +1,2 @@
-# bdd_pytest_cucumber
+# BDD (Behavior Driven Development)
 BDD Python: utilizando pytest, cucumber
