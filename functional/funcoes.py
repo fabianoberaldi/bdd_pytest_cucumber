@@ -6,7 +6,7 @@ import pandas as pd
 
 def inserir_registros(_browser):
 
-    arquivo = r"C:\Users\fabiano.beraldi\Documents\BDD\bdd-RPAChanllenge\functional\challenge.xlsx"
+    arquivo = r"C:\challenge.xlsx"
 
     df_registros = pd.read_excel(arquivo)
     print(df_registros.head())
